@@ -25,4 +25,6 @@ If your goal is to explore everything this darknet marketplace has to offer, alw
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/themes/sleep.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/themes/done.webp" alt="image" style="max-width: 100%;"><a>
 
-Update:  09/18/2025
+
+
+Update:  Wednesday 01 October 2025
